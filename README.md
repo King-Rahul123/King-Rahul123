@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Rahul Adak  
 
-<!--
-**King-Rahul123/King-Rahul123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning **React, Node.js, MongoDB**  
+💡 Interested in **Full-Stack Development & Dashboards**  
+💼 Looking to collaborate on **Open Source & Web Projects**  
+📫 Reach me at: [your email here]  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Other Tools:** Git, GitHub, VS Code
+
+---
+
+## 📊 GitHub Stats
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahuladak&show_icons=true&theme=tokyonight)
+
+---
+
+## 🚀 Projects
+- 📌 [Dashboard Project](https://github.com/rahuladak/dashboard)
+- 📌 [Movie Script Generator](https://github.com/rahuladak/movie-script)
+
+---
+
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](your-linkedin-link)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%8C%90-green)](your-portfolio-link)
+
+---
+⭐️ From [Rahul Adak](https://github.com/rahuladak)
