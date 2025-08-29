@@ -1,6 +1,3 @@
-<!-- Profile Header Banner -->
-<img src="https://i.imgur.com/8MupZHY.gif" width="100%" alt="Welcome Banner">
-
 <h1 align="center">Hi 👋, I'm Rahul Kumar Adak</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Enthusiast | Open Source Contributor</h3>
 
