@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Kumar Adak</h1>
+<h1 align="center">Hi 👋, I'm Rahul Adak</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Enthusiast | Open Source Contributor</h3>
 
 ---
@@ -59,8 +59,8 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/rahul-adak-b93463303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="mailto:adakrahul123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
   <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-24292f?logo=githubpages&logoColor=white&style=for-the-badge"></a>
 </p>
 
