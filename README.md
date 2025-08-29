@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rahul Adak</h1>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b1f,100:1fddff&height=180&section=header&text=Rahul%20Kumar%20Adak&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
 <h3 align="center">🚀 Full Stack Developer | MERN Enthusiast | Open Source Contributor</h3>
 
 ---
@@ -15,22 +17,27 @@
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  
   <!-- Backend -->
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white&style=for-the-badge" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50" style="background-color:white; padding:5px; border-radius:8px;"/>
+  
   <!-- Database -->
-  <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb&logoColor=white&style=for-the-badge" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
+  
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Tools-Git-black?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tools-GitHub-gray?logo=github&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="background-color:white; padding:5px; border-radius:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 </p>
 
 ---
@@ -66,4 +73,5 @@
 
 ---
 
-⭐️ **From [Rahul Adak](https://github.com/rahuladak)**
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1fddff,100:ff4b1f&height=120&section=footer" width="100%"/>
