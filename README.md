@@ -1,5 +1,5 @@
 <!-- Glossy Animated Background -->
-![Glossy Background](https://raw.githubusercontent.com/rahuladak/rahuladak/main/glossy-bg.svg)
+![Glossy 3D Background](./glossy-3d-bg.svg)
 
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b1f,100:1fddff&height=180&section=header&text=Rahul%20Kumar%20Adak&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
